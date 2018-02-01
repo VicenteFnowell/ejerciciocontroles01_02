@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ejerciciocontroles01_02</string>
+    <string name="btpedido">Ver Pedido</string>
+    <string name="cbensalada">Ensalada</string>
+    <string name="cbtwister">Twister</string>
+    <string name="cbboxmaster">Boxmaster</string>
+    <string name="cbtiras">Tiras de Pechuga</string>
+    <string name="cbalitas">Alitas</string>
+    <string name="cbrocks">Chicken Rocks</string>
+</resources>
